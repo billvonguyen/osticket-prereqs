@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 1. First step is to create our virtual machine to run and manage osTicket on. 
 In order to do so we must first create a Microsoft Azure account (https://azure.microsoft.com/en-us) also please note that you have to have an active subscription in order to proceed.
-Once signed up proceed to click "Azure Virtual Machine" under the create drop down arrow and you must create a resource group to place the Virtual Machine in, so in order to do so you must click on "Create new" under the Resoure Group textbox and name it however you'd like.
+Once signed up proceed to click "Azure Virtual Machine" under the create drop down arrow and you must create a resource group to place the Virtual Machine in, so in order to do so you must click on "Create new" under the Resource Group textbox and name it however you'd like.
 For the following boxes please use the screenshot example above as a reference for the most optimal settings and you may name your virtual machine to your choosing as well. As for username and password please take note of it as you'll be using it to login to your vitual machine so don't forget it!
 </p>
 <br />
