@@ -31,10 +31,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dd8Ovtd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/bJgoyPa.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First step is to create our virtual machine to run and manage osTicket on. 
+In order to do so we must first create a Microsoft Azure account (https://azure.microsoft.com/en-us) also please note that you have to have an active subscription in order to proceed.
+Once signed up proceed to click "Azure Virtual Machine" under the create drop down arrow and you must create a resoure group to place the Virtual Machine in, so in order to do so you must click on "Create new" under the Resoure Group textbox and name it however you'd like.
+For the following boxes please use the screenshots example above as a reference for the most optimal settings and you may name your virtual machine to your choosing as well. As for username and password please take note of it as you'll be using it to login to your vitual machine so don't forget it!
 </p>
 <br />
 
